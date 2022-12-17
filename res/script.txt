@@ -1,0 +1,15 @@
+load city.png city
+blur city city-blur
+brighten 50 city city-brighter
+brighten -50 city city-darker
+greyscale city city-greyscale
+sepia city city-sepia
+vertical-flip city city-vertical
+horizontal-flip city city-horizontal
+red-component city city-red
+green-component city city-green
+blue-component city city-blue
+value-component city city-value
+luma-component city city-luma
+intensity-component city city-intensity
+save city-blur2.png city-blur
