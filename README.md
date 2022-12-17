@@ -171,17 +171,6 @@ were made by me)
     `InputStreamReader with System.in` will be the readable.
     * If there is nothing in the program argument, `InputStreamReader with System.in`will be
       the readable. </br>
-### Design changes
-## HW5
-* From the previous release, we added more functionalities - `Filtering and ColorTransformation`
-* Created more Function objects that represents the commands for our program.
-* We implemented new Model that extends from the previous model for adding new advanced features.
-* Added support for other types of images.
-## HW6
-* Implemented new model that extends from the previous model for GUI functionalities.
-* Built `GUI features` for the image processor with new View class and new controller class using 
-Swing Java library.
-* Built line graph that represents the distribution of Pixel RGB values.
 
 
 
