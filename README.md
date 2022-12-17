@@ -1,7 +1,7 @@
-# Image Processing Program (CS3500: Object-Oriented Design)
+# Image Processing Program
 ***
 ## What is the Image Processing Program?
-This is **an Image Processing Application** (for CS3500 class at Northeastern)
+This is **an Image Processing Application**
 that takes in some commands from the user to modify image file. 
 This Program was written in Java while following MVC Design and core Object-Oriented 
 Design principles such as Inheritance, Encapsulation, Command Design Pattern, and more. 
